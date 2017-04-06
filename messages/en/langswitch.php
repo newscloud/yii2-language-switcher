@@ -24,4 +24,6 @@ return [
     'French' => 'French',
     'German' => 'German',
     'Spanish' => 'Spanish',
+    'Hindi' => 'Hindi',
+    'Japanese' => 'Japanese'
 ];
