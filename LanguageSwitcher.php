@@ -156,6 +156,12 @@ class LanguageSwitcher extends Widget
                 'it' => Yii::t('langswitch', 'Italian'),
                 'ru' => Yii::t('langswitch', 'Russian'),
                 'nl' => Yii::t('langswitch', 'Dutch'),
+                'ja' => Yii::t('langswitch', 'Japanese'),
+                'hi' => Yii::t('langswitch', 'Hindi'),                
+                'pt' => Yii::t('langswitch', 'Portuguese'),                
+                'ar' => Yii::t('langswitch', 'Arabic'),
+                'ko' => Yii::t('langswitch', 'Korean'),                
+                'zh-cn' => Yii::t('langswitch', 'Chinese'),                
             ];
         }
 
